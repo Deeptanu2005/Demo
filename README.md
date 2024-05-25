@@ -1,4 +1,4 @@
 # Demo
 This is a demo git repository
 <br>
-Author - Deeptanu Sen
+Author - Deeptanu Sen ("Hello World")
