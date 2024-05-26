@@ -4,4 +4,4 @@ This is a demo git repository
 Author - Deeptanu Sen ("Hello World")
 
 ## License
-[LICENSE]
+[MIT LICENSE](LICENSE)
